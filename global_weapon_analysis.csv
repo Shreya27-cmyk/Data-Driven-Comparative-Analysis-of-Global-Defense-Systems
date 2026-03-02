@@ -1,0 +1,201 @@
+Weapon_Name,Country,Category,Type,Range_km,Caliber_mm,Rate_of_Fire,Mobility_Score,Accuracy_Score,Cost_Million_USD,Indigenous,Terrain_Adaptability
+AK-47,USA,Small Arms,Sniper Rifle,0.48,5.56,571,10,10,0.0024,No,6
+G36,India,Small Arms,Assault Rifle,0.42,5.45,787,10,10,0.0012,Yes,9
+Smerch,Germany,Heavy Weapon,Missile System,256.2,214.0,8,7,8,7.19,Yes,7
+INSAS,Israel,Small Arms,Assault Rifle,0.58,7.62,676,5,9,0.0021,Yes,10
+SIG716,South Korea,Small Arms,Sniper Rifle,0.49,7.62,795,5,6,0.0012,No,7
+Barrett M82,USA,Small Arms,Assault Rifle,0.58,9.0,825,6,8,0.0026,Yes,8
+WS-2,France,Heavy Weapon,MLRS,219.0,300.0,8,6,7,6.2,No,9
+WS-2,France,Heavy Weapon,MLRS,198.1,300.0,11,5,7,8.06,No,6
+Type 99 Howitzer,South Korea,Artillery,Towed,28.4,155.0,8,10,9,3.57,No,9
+Caesar,Russia,Artillery,Towed,29.9,155.0,7,9,9,3.31,No,10
+UMP45,Israel,Small Arms,Assault Rifle,0.71,5.45,886,5,7,0.0009,No,7
+PzH 2000,USA,Artillery,Self-Propelled,43.8,152.0,7,9,6,3.26,No,6
+Tavor X95,Israel,Small Arms,SMG,0.63,9.0,501,10,8,0.0029,Yes,10
+PHL-03,USA,Heavy Weapon,Missile System,263.6,300.0,9,6,10,3.92,Yes,10
+Type 99 Howitzer,Israel,Artillery,Towed,24.5,130.0,5,6,10,3.2,Yes,6
+AK-47,Germany,Small Arms,Sniper Rifle,0.97,5.56,837,9,7,0.0018,No,8
+Pinaka Mk-II,China,Heavy Weapon,MLRS,228.7,300.0,10,10,8,5.39,No,9
+SIG716,USA,Small Arms,Assault Rifle,0.26,5.45,801,9,7,0.002,Yes,6
+QBZ-95,India,Small Arms,Assault Rifle,1.11,7.62,536,7,9,0.0019,Yes,7
+M4 Carbine,Germany,Small Arms,SMG,1.01,5.56,548,8,8,0.001,No,9
+Astros II,Germany,Heavy Weapon,Rocket System,224.9,300.0,7,10,8,3.36,Yes,6
+MP5,China,Small Arms,Sniper Rifle,0.65,9.0,593,6,6,0.0014,Yes,9
+HIMARS,India,Heavy Weapon,MLRS,262.3,214.0,9,8,9,4.0,No,7
+Barrett M82,India,Small Arms,SMG,0.2,9.0,635,8,8,0.0028,No,9
+Barrett M82,Russia,Small Arms,SMG,0.42,5.45,796,5,8,0.0024,Yes,6
+Smerch,Germany,Heavy Weapon,MLRS,106.2,300.0,7,5,10,8.11,Yes,6
+INSAS,South Korea,Small Arms,Sniper Rifle,0.45,5.45,817,10,10,0.001,No,10
+Barrett M82,France,Small Arms,Sniper Rifle,0.92,5.56,635,10,8,0.0017,No,9
+Dragunov,USA,Small Arms,SMG,0.82,5.45,537,9,8,0.002,No,7
+AK-203,USA,Small Arms,SMG,0.48,9.0,778,9,10,0.0023,No,6
+Barrett M82,USA,Small Arms,SMG,0.32,5.45,880,7,8,0.002,Yes,10
+Barrett M82,Israel,Small Arms,Sniper Rifle,0.83,7.62,758,5,6,0.0019,No,9
+AK-47,India,Small Arms,SMG,0.97,7.62,582,9,9,0.0024,Yes,10
+Dragunov,USA,Small Arms,Sniper Rifle,1.1,5.45,689,6,9,0.0021,Yes,7
+Msta-B,France,Artillery,Towed,56.0,122.0,8,5,8,3.25,No,10
+UMP45,Russia,Small Arms,Assault Rifle,1.18,5.56,711,10,8,0.0009,Yes,9
+FAMAS,France,Small Arms,Sniper Rifle,0.31,5.45,740,8,8,0.0013,Yes,8
+AK-203,China,Small Arms,Sniper Rifle,0.39,7.62,642,7,8,0.0027,No,10
+Barrett M82,Israel,Small Arms,Assault Rifle,1.08,7.62,591,7,6,0.0021,No,6
+PHL-03,Israel,Heavy Weapon,Missile System,170.4,300.0,7,9,7,5.31,Yes,8
+Barrett M82,South Korea,Small Arms,Sniper Rifle,1.13,5.56,686,10,8,0.0017,No,10
+HIMARS,USA,Heavy Weapon,Missile System,186.6,300.0,12,10,8,4.96,Yes,10
+ATAGS,China,Artillery,Howitzer,57.6,122.0,7,8,10,4.85,No,6
+HK416,France,Small Arms,SMG,0.99,7.62,738,10,7,0.0018,No,10
+Polonez,Russia,Heavy Weapon,Rocket System,135.3,300.0,11,6,8,3.56,Yes,7
+QBZ-95,Russia,Small Arms,Assault Rifle,0.44,9.0,812,5,9,0.0027,Yes,9
+M777,South Korea,Artillery,Self-Propelled,29.8,105.0,3,6,7,5.89,No,10
+BM-30,India,Heavy Weapon,Rocket System,281.0,214.0,13,8,10,3.8,No,10
+PHL-03,Germany,Heavy Weapon,MLRS,275.2,227.0,14,6,9,5.68,No,9
+WS-2,China,Heavy Weapon,Missile System,246.1,300.0,13,7,9,6.76,No,6
+Type 99 Howitzer,China,Artillery,Self-Propelled,32.8,155.0,3,6,9,2.69,Yes,7
+Nora B-52,USA,Artillery,Self-Propelled,33.2,152.0,6,8,9,2.31,Yes,10
+Nora B-52,South Korea,Artillery,Towed,57.7,130.0,6,8,10,6.27,Yes,10
+FAMAS,Germany,Small Arms,SMG,0.64,5.45,699,10,9,0.0015,No,7
+Smerch,Russia,Heavy Weapon,MLRS,76.2,227.0,6,8,7,3.5,Yes,9
+Nora B-52,India,Artillery,Self-Propelled,33.1,152.0,5,8,8,3.69,No,9
+FH70,USA,Artillery,Towed,50.0,105.0,5,5,6,3.12,Yes,6
+HK416,China,Small Arms,Sniper Rifle,0.35,5.56,742,9,7,0.0023,No,9
+M4 Carbine,Israel,Small Arms,Sniper Rifle,0.81,5.45,898,7,6,0.0026,Yes,10
+Pinaka Mk-II,France,Heavy Weapon,MLRS,278.8,227.0,12,6,6,8.65,Yes,10
+BM-30,USA,Heavy Weapon,Missile System,265.6,300.0,7,9,6,7.78,No,8
+AK-203,Israel,Small Arms,Sniper Rifle,0.85,5.45,715,5,9,0.0026,No,8
+FH70,Russia,Artillery,Towed,49.4,130.0,7,9,9,6.04,No,9
+Type 99 Howitzer,France,Artillery,Towed,53.2,105.0,5,6,9,6.41,No,10
+HK416,Israel,Small Arms,SMG,1.05,5.56,749,7,8,0.0013,No,8
+Smerch,India,Heavy Weapon,Rocket System,89.7,300.0,12,6,9,5.93,No,9
+AK-47,India,Small Arms,SMG,0.42,5.56,656,7,9,0.0023,No,10
+BM-30,South Korea,Heavy Weapon,MLRS,146.1,300.0,13,7,7,4.63,Yes,6
+UMP45,Israel,Small Arms,Sniper Rifle,0.74,5.56,598,8,8,0.0013,No,10
+HK416,USA,Small Arms,SMG,0.43,5.56,654,9,7,0.0008,Yes,8
+Polonez,India,Heavy Weapon,Missile System,230.4,214.0,13,5,10,3.62,No,8
+Type 99 Howitzer,Germany,Artillery,Self-Propelled,27.4,105.0,5,8,6,6.71,No,6
+UMP45,Germany,Small Arms,Sniper Rifle,0.83,5.45,577,9,8,0.0011,Yes,6
+Grad,USA,Heavy Weapon,Missile System,209.5,300.0,9,8,9,7.65,No,9
+K9 Vajra,South Korea,Artillery,Howitzer,44.8,155.0,8,6,7,2.5,Yes,8
+QBZ-95,Russia,Small Arms,Assault Rifle,0.75,5.56,501,10,10,0.0017,No,9
+Dragunov,India,Small Arms,SMG,0.91,9.0,536,7,10,0.0023,No,7
+Lynx MLRS,USA,Heavy Weapon,Rocket System,219.0,227.0,8,6,8,3.43,No,10
+Dragunov,Germany,Small Arms,SMG,0.89,9.0,639,8,9,0.0019,Yes,6
+Lynx MLRS,South Korea,Heavy Weapon,Missile System,208.9,214.0,7,10,10,4.37,Yes,10
+Astros II,France,Heavy Weapon,Rocket System,245.5,214.0,13,8,8,6.11,No,7
+Tavor X95,Germany,Small Arms,SMG,0.55,7.62,664,6,8,0.0023,No,9
+Pinaka Mk-II,France,Heavy Weapon,Missile System,257.1,300.0,6,7,8,5.73,Yes,8
+Lynx MLRS,South Korea,Heavy Weapon,Rocket System,221.3,300.0,13,6,10,5.48,No,8
+SIG716,Germany,Small Arms,Assault Rifle,0.47,5.56,647,10,9,0.0018,Yes,6
+Pinaka Mk-II,China,Heavy Weapon,Rocket System,141.5,214.0,14,6,6,5.45,Yes,9
+K9 Vajra,Russia,Artillery,Howitzer,31.7,130.0,6,8,7,6.17,Yes,9
+AK-203,South Korea,Small Arms,Sniper Rifle,0.71,5.56,535,8,8,0.0014,No,10
+FH70,India,Artillery,Howitzer,31.9,155.0,7,8,7,6.99,No,9
+D-30,Israel,Artillery,Howitzer,50.5,152.0,6,6,7,6.66,No,10
+Caesar,China,Artillery,Towed,32.7,152.0,8,8,9,6.57,No,7
+AK-47,India,Small Arms,Sniper Rifle,1.17,7.62,551,8,6,0.0027,No,10
+PHL-03,India,Heavy Weapon,Rocket System,164.3,300.0,8,7,8,3.45,No,10
+Msta-B,USA,Artillery,Howitzer,54.4,152.0,5,8,10,5.13,Yes,6
+Grad,China,Heavy Weapon,MLRS,281.8,214.0,7,5,6,5.6,Yes,9
+FAMAS,France,Small Arms,Assault Rifle,0.52,5.45,650,8,7,0.0016,No,7
+UMP45,Russia,Small Arms,Assault Rifle,0.28,9.0,817,8,10,0.0023,Yes,7
+PHL-03,Germany,Heavy Weapon,Missile System,175.7,300.0,6,8,8,8.39,Yes,10
+D-30,USA,Artillery,Self-Propelled,59.5,130.0,8,10,8,6.81,No,9
+PzH 2000,China,Artillery,Self-Propelled,24.3,152.0,7,7,8,3.79,No,6
+QBZ-95,France,Small Arms,Sniper Rifle,1.07,5.45,810,7,7,0.0024,No,10
+Polonez,China,Heavy Weapon,Rocket System,212.8,300.0,8,10,6,6.77,No,8
+HIMARS,India,Heavy Weapon,Missile System,238.4,214.0,10,8,7,4.96,Yes,7
+PHL-03,Israel,Heavy Weapon,MLRS,280.1,214.0,10,8,8,8.48,Yes,8
+SIG716,Germany,Small Arms,Assault Rifle,0.95,5.56,846,8,10,0.0024,Yes,8
+Tavor X95,South Korea,Small Arms,SMG,0.74,9.0,688,10,8,0.0023,No,10
+MP5,Israel,Small Arms,Sniper Rifle,0.43,5.45,817,9,8,0.0027,Yes,10
+Grad,USA,Heavy Weapon,Missile System,279.2,227.0,12,5,6,3.7,No,8
+AK-47,USA,Small Arms,Assault Rifle,1.09,5.56,698,10,10,0.0018,Yes,9
+Pinaka Mk-II,South Korea,Heavy Weapon,Rocket System,261.7,300.0,12,7,6,8.63,Yes,8
+FH70,Germany,Artillery,Towed,54.2,105.0,8,10,8,3.84,No,6
+HK416,France,Small Arms,Assault Rifle,1.15,9.0,546,10,10,0.0023,Yes,6
+AK-203,Israel,Small Arms,Assault Rifle,0.99,5.56,535,9,7,0.0026,Yes,10
+Msta-B,China,Artillery,Towed,51.5,155.0,3,6,7,3.39,No,10
+SIG716,Russia,Small Arms,Sniper Rifle,1.07,5.56,507,6,10,0.0016,Yes,8
+Nora B-52,Russia,Artillery,Towed,25.1,152.0,7,5,9,2.57,No,9
+PzH 2000,USA,Artillery,Howitzer,28.9,155.0,3,10,10,5.64,No,8
+MP5,India,Small Arms,SMG,1.05,9.0,851,10,9,0.001,Yes,6
+Pinaka Mk-II,Israel,Heavy Weapon,Rocket System,85.1,227.0,14,8,10,7.27,No,10
+PHL-03,Germany,Heavy Weapon,MLRS,168.9,300.0,7,10,10,8.12,No,7
+Tavor X95,Germany,Small Arms,SMG,0.54,9.0,704,5,8,0.0017,No,9
+G5 Howitzer,France,Artillery,Towed,47.5,152.0,3,5,6,2.46,Yes,9
+M4 Carbine,Israel,Small Arms,Sniper Rifle,0.26,7.62,843,7,9,0.0011,No,6
+Caesar,France,Artillery,Towed,43.1,122.0,4,6,6,5.28,No,8
+K9 Vajra,USA,Artillery,Howitzer,29.0,152.0,7,9,10,6.87,Yes,10
+FAMAS,France,Small Arms,Assault Rifle,0.47,7.62,673,6,7,0.0016,No,10
+AK-203,USA,Small Arms,Sniper Rifle,0.83,5.45,546,6,9,0.0024,No,9
+FAMAS,Israel,Small Arms,SMG,0.51,7.62,897,9,6,0.0029,Yes,6
+Polonez,Russia,Heavy Weapon,Rocket System,225.0,227.0,13,8,10,6.97,No,9
+Tavor X95,France,Small Arms,Sniper Rifle,0.31,9.0,556,10,10,0.0014,No,9
+INSAS,India,Small Arms,SMG,1.18,5.45,503,6,7,0.0012,No,8
+MP5,Israel,Small Arms,Assault Rifle,0.7,9.0,589,9,7,0.0011,No,10
+Nora B-52,USA,Artillery,Howitzer,21.7,105.0,6,7,10,6.61,No,9
+FH70,South Korea,Artillery,Towed,36.2,130.0,4,9,9,6.01,Yes,8
+UMP45,South Korea,Small Arms,Assault Rifle,0.64,9.0,768,7,8,0.001,No,7
+G36,Russia,Small Arms,Sniper Rifle,0.83,5.56,897,10,7,0.0016,Yes,7
+Type 99 Howitzer,Russia,Artillery,Towed,26.9,122.0,8,10,9,2.38,No,9
+Grad,Israel,Heavy Weapon,Missile System,104.7,214.0,13,7,8,5.65,Yes,10
+Grad,Israel,Heavy Weapon,Rocket System,141.4,227.0,6,7,6,3.34,No,6
+Polonez,Germany,Heavy Weapon,MLRS,289.5,300.0,6,9,7,5.7,No,8
+Dragunov,Russia,Small Arms,SMG,0.3,7.62,865,10,7,0.001,Yes,6
+M777,Germany,Artillery,Howitzer,40.9,122.0,5,7,9,3.86,No,9
+Astros II,India,Heavy Weapon,MLRS,147.0,227.0,7,8,8,6.35,Yes,8
+FAMAS,Israel,Small Arms,Sniper Rifle,0.86,7.62,658,10,9,0.0029,Yes,7
+Astros II,France,Heavy Weapon,Missile System,218.0,227.0,8,10,10,7.02,No,6
+MP5,Israel,Small Arms,SMG,0.51,5.56,674,8,7,0.0029,Yes,7
+Tavor X95,Russia,Small Arms,SMG,1.04,5.45,759,10,10,0.0025,No,6
+Pinaka Mk-II,Russia,Heavy Weapon,Missile System,105.5,214.0,8,5,9,7.33,Yes,8
+Polonez,Germany,Heavy Weapon,Missile System,243.0,227.0,9,7,9,6.2,No,7
+M777,Germany,Artillery,Self-Propelled,51.1,155.0,7,6,7,4.09,Yes,10
+AK-47,France,Small Arms,Sniper Rifle,0.68,7.62,783,10,10,0.0029,No,6
+Dragunov,USA,Small Arms,SMG,0.65,5.56,723,6,9,0.001,Yes,8
+G36,South Korea,Small Arms,SMG,0.7,5.56,697,7,7,0.003,No,6
+Astros II,USA,Heavy Weapon,MLRS,147.1,214.0,8,8,7,3.23,No,9
+M4 Carbine,India,Small Arms,Assault Rifle,0.46,5.56,780,9,10,0.0029,Yes,9
+QBZ-95,France,Small Arms,SMG,0.32,5.56,714,9,9,0.0022,Yes,6
+Astros II,Germany,Heavy Weapon,MLRS,73.8,300.0,9,7,9,7.31,No,6
+Smerch,China,Heavy Weapon,Missile System,113.1,300.0,7,7,6,6.14,Yes,10
+K9 Vajra,South Korea,Artillery,Towed,45.4,130.0,5,7,6,5.74,Yes,8
+BM-30,USA,Heavy Weapon,MLRS,244.0,214.0,6,7,7,5.11,No,9
+Dragunov,Russia,Small Arms,Assault Rifle,0.92,9.0,518,5,7,0.0014,No,6
+Astros II,France,Heavy Weapon,Missile System,297.5,300.0,13,10,7,4.52,No,8
+WS-2,India,Heavy Weapon,Missile System,132.8,227.0,12,10,9,8.34,No,9
+M777,Russia,Artillery,Howitzer,39.9,155.0,5,10,9,6.01,No,6
+Grad,Russia,Heavy Weapon,Missile System,143.9,214.0,11,7,9,6.97,No,10
+Polonez,Russia,Heavy Weapon,Missile System,150.9,214.0,11,8,8,6.69,Yes,6
+FH70,South Korea,Artillery,Howitzer,52.0,122.0,3,9,9,2.71,Yes,6
+AK-12,USA,Small Arms,Sniper Rifle,0.57,9.0,790,6,9,0.0009,No,8
+Barrett M82,Germany,Small Arms,Sniper Rifle,0.34,7.62,703,7,7,0.0015,Yes,6
+Nora B-52,Russia,Artillery,Howitzer,35.5,155.0,3,7,9,3.31,No,7
+FAMAS,Germany,Small Arms,Assault Rifle,0.34,5.45,731,10,9,0.0012,No,6
+HIMARS,Israel,Heavy Weapon,Rocket System,196.5,227.0,10,10,7,8.11,Yes,8
+FAMAS,USA,Small Arms,Assault Rifle,0.44,9.0,513,9,8,0.0016,Yes,9
+AK-203,USA,Small Arms,SMG,0.6,9.0,769,8,10,0.0017,Yes,6
+Astros II,Israel,Heavy Weapon,Rocket System,173.5,300.0,14,9,10,5.07,Yes,7
+Lynx MLRS,South Korea,Heavy Weapon,Rocket System,261.2,300.0,8,6,8,4.82,No,7
+FAMAS,France,Small Arms,SMG,0.4,7.62,564,9,10,0.0022,Yes,6
+QBZ-95,Russia,Small Arms,Sniper Rifle,0.82,7.62,788,5,6,0.0009,No,6
+HIMARS,China,Heavy Weapon,Missile System,212.2,214.0,13,9,8,8.33,No,8
+Astros II,China,Heavy Weapon,Missile System,138.4,214.0,6,8,9,3.95,Yes,9
+WS-2,Israel,Heavy Weapon,Rocket System,141.9,300.0,11,7,9,7.41,No,7
+Type 99 Howitzer,USA,Artillery,Towed,38.7,130.0,6,5,6,3.24,No,8
+UMP45,South Korea,Small Arms,Assault Rifle,1.01,7.62,597,8,10,0.0025,No,9
+PzH 2000,France,Artillery,Towed,23.6,152.0,7,6,7,4.29,No,10
+MP5,India,Small Arms,SMG,0.69,9.0,646,5,9,0.002,No,7
+ATAGS,Israel,Artillery,Self-Propelled,21.8,105.0,7,7,10,4.81,Yes,8
+Lynx MLRS,South Korea,Heavy Weapon,Missile System,245.8,227.0,7,5,9,3.77,No,8
+HK416,Israel,Small Arms,Assault Rifle,0.8,9.0,756,5,7,0.0009,No,8
+Dragunov,Germany,Small Arms,Sniper Rifle,1.09,5.56,667,7,7,0.0028,No,9
+HIMARS,Israel,Heavy Weapon,MLRS,192.4,300.0,10,5,8,5.85,Yes,8
+Grad,South Korea,Heavy Weapon,Missile System,253.3,300.0,6,7,10,6.58,Yes,10
+Polonez,India,Heavy Weapon,Missile System,109.2,300.0,12,10,7,3.89,Yes,6
+AK-12,China,Small Arms,SMG,0.51,5.56,711,8,10,0.0023,No,10
+HIMARS,India,Heavy Weapon,Rocket System,189.3,300.0,11,8,10,8.99,No,9
+Msta-B,Russia,Artillery,Howitzer,33.7,130.0,8,10,8,5.86,No,10
+Tavor X95,China,Small Arms,SMG,0.76,5.56,652,10,7,0.0025,No,9
+M777,Germany,Artillery,Howitzer,57.3,130.0,5,10,10,2.61,No,9
+G36,Israel,Small Arms,SMG,0.24,5.45,677,10,8,0.0028,Yes,9
+HIMARS,China,Heavy Weapon,Missile System,284.6,300.0,10,9,10,3.82,Yes,7
+Pinaka Mk-II,India,Heavy Weapon,MLRS,121.9,214.0,6,7,9,3.6,Yes,6
