@@ -1,9 +1,3 @@
-Perfect 👌 I’ll give you a **clean, professional, GitHub-ready README.md** that clearly explains your entire project and helps anyone understand it easily.
-
-You can directly copy-paste this into your `README.md` file.
-
----
-
 # 📊 Data-Driven Comparative Analysis of Global Defense Systems
 
 ## 📌 About The Project
